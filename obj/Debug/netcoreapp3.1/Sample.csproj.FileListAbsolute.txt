@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.exe
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.deps.json
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.dll
+C:\Users\Sona G\source\repos\Sample\Sample\bin\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.dll
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\Sona G\source\repos\Sample\Sample\obj\Debug\netcoreapp3.1\Sample.genruntimeconfig.cache
